@@ -1,10 +1,7 @@
 * freebsd-ffi
 
-
-
-|---------+-------------------------------------------|
-| source  | git:https://git.mfiano.net/mfiano/freebsd-ffi.git   |
-| commit  |   |
-| systems | freebsd-ffi |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://git.mfiano.net/mfiano/freebsd-ffi.git |
+| commit  | fb2f5f5                                           |
+| systems | freebsd-ffi                                       |
+|---------+---------------------------------------------------|
